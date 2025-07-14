@@ -1,4 +1,4 @@
-<strong> Projeto: Sistema de Cadastro de Usuários </strong>
+<h1><strong> Projeto: Sistema de Cadastro de Usuários </strong></h1>
 
 🧾 Projeto: Sistema de Cadastro de Usuários – Java Console
 ✅ Resumo:
