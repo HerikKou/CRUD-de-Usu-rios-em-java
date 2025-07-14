@@ -1,6 +1,6 @@
 <h1><strong> Projeto: Sistema de Cadastro de Usuários </strong></h1>
 
-🧾 Projeto: Sistema de Cadastro de Usuários – Java Console
+<strong>🧾 Projeto: Sistema de Cadastro de Usuários – Java Console </strong>
 ✅ Resumo:
 Um CRUD simples em Java, utilizando POO, com entrada de dados pelo terminal. O sistema permite cadastrar, listar, filtrar, atualizar e remover usuários, usando uma ArrayList como estrutura de armazenamento.
 
